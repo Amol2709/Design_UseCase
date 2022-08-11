@@ -1,0 +1,20 @@
+What is Pen?
+ Anything with a body and nib with write Functionlity is a pen.
+
+
+
+1. We can have different types of pen
+        a. Gell pen
+        b. Ball pen
+2. Pen has Body
+3. Pen has Nib
+4. Pen should write
+5. Each Pen must have Refilling Functionality
+6. Ball pen refilling Behaviour is different than Ink pen
+7. Refilling Behaviour
+        a. Ball Pen: We will just change Refill 
+        b  Ink Pen : We will fill ink.
+
+8. Future Requirement:
+ based on definition of pen , In future pen can be Marker or pencil.
+ 
