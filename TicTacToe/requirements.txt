@@ -1,0 +1,13 @@
+1. Design a TTT with board of sign nXn.
+2. Played by 2 players
+3. Each player can choose symbol(X,0)
+4. Two types of players:
+        a. Human
+        b. Bot (must have diffculty level: Easy,medium,Hard)
+5.  Human Vs Human
+    Human Vs Bot
+6.Human: email,
+          username,
+          profilePic
+7. Player can play Multiple Games (opening differnt tabs in Browser)
+
